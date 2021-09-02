@@ -3,6 +3,5 @@
     "baseDir": ["./src", "./build/contracts"]
   },
   "open": false,
-  "port": 3000,
-  "ui":3002
+  "port": 3000
 }
