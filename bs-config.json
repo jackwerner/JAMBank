@@ -1,7 +1,8 @@
 {
   "server": {
-    "baseDir": ["./src", "./build/contracts"],
-    "port": 3000
+    "baseDir": ["./src", "./build/contracts"]
   },
-  "open": false
+  "open": false,
+  "port": 3000,
+  "ui":30002
 }
